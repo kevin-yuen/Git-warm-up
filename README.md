@@ -1,2 +1,2 @@
 # Git-warm-up
-warm-up activity
+Hello, this is Kevin Yuen's repository
